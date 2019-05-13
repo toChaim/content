@@ -1471,6 +1471,10 @@
         },
         {
             "playbookID": "EWS test"
+        },
+        {
+            "integrations": "Forescout",
+            "playbookID": "Forescout-Test"
         }
     ],
     "skipped_tests": {
